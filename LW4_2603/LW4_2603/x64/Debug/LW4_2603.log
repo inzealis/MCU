@@ -1,0 +1,10 @@
+﻿  Assembling Source3.asm...
+Source3.asm(1): error A2008: syntax error : .
+Source3.asm(9): error A2070: invalid instruction operands
+Source3.asm(14): error A2070: invalid instruction operands
+Source3.asm(15): error A2070: invalid instruction operands
+Source3.asm(16): error A2070: invalid instruction operands
+Source3.asm(21): error A2070: invalid instruction operands
+Source3.asm(27): error A2070: invalid instruction operands
+Source3.asm(29): warning A6004: procedure argument or local not referenced : C
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Source3.obj" /W3 /errorReport:prompt  /TaSource3.asm" с кодом "1".
